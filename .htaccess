@@ -1,0 +1,8 @@
+DirectoryIndex index.php
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^courses.html$ courses.php
+RewriteRule ^schedule.html$ schedule.php
+RewriteRule ^help.html$ help.php
+RewriteRule ^about.html$ about.php

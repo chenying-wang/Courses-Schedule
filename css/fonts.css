@@ -1,0 +1,34 @@
+@font-face 
+{
+	font-family: 'NotoSansCJKsc';
+	font-weight: 200;
+	src: url(/fonts/notosans/NotoSansCJKsc-Thin.otf);
+}
+
+@font-face 
+{
+	font-family: 'NotoSansCJKsc';
+	font-weight: 300;
+	src: url(/fonts/notosans/NotoSansCJKsc-Light.otf);
+}
+
+@font-face 
+{
+	font-family: 'NotoSansCJKsc';
+	font-weight: 400;
+	src: url(/fonts/notosans/NotoSansCJKsc-Regular.otf);
+}
+
+@font-face 
+{
+	font-family: 'NotoSansCJKsc';
+	font-weight: 500;
+	src: url(/fonts/notosans/NotoSansCJKsc-Medium.otf);
+}
+
+@font-face 
+{
+	font-family: 'NotoSansCJKsc';
+	font-weight: 700;
+	src: url(/fonts/notosans/NotoSansCJKsc-Bold.otf);
+}
